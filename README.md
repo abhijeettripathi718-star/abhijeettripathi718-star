@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abhijeet Tripathi 👋
 
-<!--
-**abhijeettripathi718-star/abhijeettripathi718-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Graduate (CGPA 7.25)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development, Web Development and AI
+
+🌱 Currently learning Full Stack Development
+
+📍 Uttar Pradesh, India
+
+## Skills
+
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+## Projects
+
+### AI Powered Online Examination System
+- AI Proctoring
+- Tab Switching Detection
+- Face Monitoring
+- Auto Submission
+
+## Contact
+
+📧 Email: abhijeettripathi718@gmail.com
